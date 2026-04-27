@@ -10,7 +10,7 @@ import aiohttp
 TOKEN = os.getenv('DISCORD_TOKEN') 
 MY_GUILD_ID = 1492797387008376852       
 LIST_CHANNEL_ID = 1492909029780095200    # 名單顯示頻道
-BACKUP_CHANNEL_ID = 1496886906544324738  # 數據備份頻道
+BACKUP_CHANNEL_ID = 1498317230541115493  # 數據備份頻道
 DATA_FILE = "list_data.json"             
 # =============================================
 
